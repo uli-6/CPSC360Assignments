@@ -1,0 +1,6 @@
+number of words with e: 45
+longest word with e: typesetting,
+number of chars in longest word: 6
+number of words with e: 45
+longest word with e: typesetting,
+number of chars in longest word: 12
